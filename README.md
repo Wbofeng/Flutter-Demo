@@ -4,13 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+简单的 Flutter 架子，便于快速开发 Flutter APP
+实现了以 Redux 为核心的数据控制，将 Navigation 也注入了 Redux 中便于管理
+提供了底部导航栏，和一个简单的详情页面
+欢迎广大 Flutter 爱好者在此基础上二次开发
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+啦啦啦啦～～～
