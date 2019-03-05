@@ -1,0 +1,4 @@
+#Wed Mar 06 00:35:10 CST 2019
+base.0=/Users/wangbofeng/demo/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
